@@ -2,7 +2,7 @@
 
 Before starting the app, make sure that you have both NodeJS and npm installed.
 
-In order to launch the app, move to the app folder and type the following commands:
+Move to the app folder and type the following commands to install necessary packages:
 
 ```
 npm install react react-dom --save
